@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    width: 50%;
+    margin: 0 25%;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.bold {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+ul {
+    padding: none;
+}
+
+li {
+    list-style: none;
+}
